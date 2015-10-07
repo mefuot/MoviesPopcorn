@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesPopcorn</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort_by_most_popular">Most Popular</string>
+    <string name="sort_by_hightest_rated">Hightest Rated</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
