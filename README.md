@@ -3,7 +3,7 @@ App to allow users to discover the most popular movies playing.
 
 
 # Install
-You can download an APK via this link : https://www.dropbox.com/s/ahgi922hm33a36i/MoviesPopcorn.apk?dl=0 
+You can download an APK via this link : https://www.dropbox.com/s/36hn0zifmno1vj1/MoviesPopcorn.apk?dl=0
 
 
 # Usage
